@@ -103,3 +103,9 @@ $("#st1, #st2, #st3, #st4, #st5").css("color", "yellow");
 });
 });
 </script>
+
+
+o/p:
+jQuery simple star rating example
+rate oneproduct
+*****
